@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> سكوتك يقتلني في صمت الليل
+> ونار الشوق تسرق مني الحيل
+> تعالي نعيش الحب بلا دليل
+> ونترك للقلب هذا الدرب الطويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
