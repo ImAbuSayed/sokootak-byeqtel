@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sokootak Byeqtel
+
+This log tracks the cryptographic history and versioning for the song **Sokootak Byeqtel** (sokootak-byeqtel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:35:25.224558 | `v1` | `4fddf4adf4a759685eaaa1dc03ae4ca6c32564332ad634e9c935f264b2895f60` | `926a73b464ec5486664b77897925894d03a7c1fe94dd2d9b3bdda661230c77af` | `2026-05-08_sokootak-byeqtel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
